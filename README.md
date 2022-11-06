@@ -8,6 +8,7 @@ Functionality:
     Future Improvements
       - Have the bot have longer interactions with the user
       - Have the bot properly analyze patient conditon and ouptut defined possible diagnosis
+      - final project did not ouput matching results as expected.
  
  Accomplishments  
  -  Learned strong team communication skills
