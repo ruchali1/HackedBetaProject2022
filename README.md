@@ -26,7 +26,7 @@ Functionality:
     
       python chatbot2.py
     
-    To run Webpage
+To run Webpage
 Install a virtual environment
 
 pip install setuptools virtualenv
@@ -35,8 +35,8 @@ Install flask
 
 install: pip install flask flask-sqlalchemy 
 
- Start the program
+Start the program
  
-  python3 micahmain.py 
+ python3 micahmain.py 
     
    
