@@ -30,15 +30,15 @@ To run Webpage
 Install a virtual environment
 
 
-pip install setuptools virtualenv
+`pip install setuptools virtualenv`
 
 
 Install flask
 
-pip install flask flask-sqlalchemy 
+`pip install flask flask-sqlalchemy` 
 
 Start the program
- 
-python3 micahmain.py 
+ `
+python3 micahmain.py` 
     
    
