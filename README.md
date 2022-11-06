@@ -19,6 +19,7 @@ Functionality:
     
    How to run program 
    first enter (in terminal)
+    
     pip install pygame
     
    Next ensure, uagme.py file is open in the same folder
