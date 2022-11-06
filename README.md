@@ -36,12 +36,10 @@ pip install setuptools virtualenv
 Install flask
 
 
-install: pip install flask flask-sqlalchemy 
-
+  pip install flask flask-sqlalchemy 
 
 Start the program
  
-
-python3 micahmain.py 
+   python3 micahmain.py 
     
    
