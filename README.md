@@ -12,14 +12,18 @@ Functionality:
  
  Accomplishments  
  -  Learned strong team communication skills
+ 
  - learned HTML
+ 
  -developed Machine Learning Skills
     
    How to run program 
    first enter (in terminal)
     pip install pygame
+    
    Next ensure, uagme.py file is open in the same folder
     next enter  (in the terminal)
+    
       python chatbot2.py
     
     
