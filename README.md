@@ -3,7 +3,9 @@ The goal was to create a bot that will react to user input, first using machine 
 
 Functionality:
   - The bot, is able to converse with a patient 
+  
   -The patients main symptom is accepted as an input. 
+  
   -The Webpage is functional for pain levels 1-4, 9-10
   
     Future Improvements
