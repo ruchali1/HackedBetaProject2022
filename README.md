@@ -38,6 +38,7 @@ Install flask
 `pip install flask flask-sqlalchemy` 
 
 Start the program
+
  `
 python3 micahmain.py` 
     
