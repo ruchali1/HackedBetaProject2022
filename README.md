@@ -42,4 +42,4 @@ Start the program
  `
 python3 micahmain.py` 
     
-   Hello
+  
